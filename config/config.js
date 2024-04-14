@@ -63,7 +63,7 @@ connect: "TEST", // CONNECT SERWERA KTÓRY SIĘ WYSYŁA NA DM
 // STATUS BOT
 on: true, // czy status jest ONLINNE 
 gracze: true, // lepiej nie tykać 
-status: "{ONLINE}/{SLOTY} | Wujek-Bot`s", 
+status: "{ONLINE}/{SLOTY} | HetmanBOT", 
 typstatusu: "PLAYING",
 // Podania
 kanaladminpodania: "",
