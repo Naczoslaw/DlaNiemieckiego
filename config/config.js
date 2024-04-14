@@ -76,4 +76,4 @@ roznicadni: "10",
 // aby dal WUJKA
 opiniaID: ""
 }
-// Jeśli nie wiesz jak ustawić config.js napisz do Wuja#4934
+// Jeśli nie wiesz jak ustawić config.js napisz do Hetman
